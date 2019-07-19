@@ -1,4 +1,5 @@
 ![Go-Emoji-Utils](http://up.tmdvs.me/52074bebc945/d)
+
 Fork from [tmdvs](https://github.com/tmdvs/Go-Emoji-Utils) to enable backwards compatibility with older go versions.
 
 # Go Emoji Utils
