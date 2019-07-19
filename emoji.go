@@ -3,13 +3,12 @@ package emoji
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/chucnorrisful/Go-Emoji-Utils/utils"
 	"io/ioutil"
 	"os"
 	"path"
 	"runtime"
 	"strings"
-
-	"github.com/tmdvs/Go-Emoji-Utils/utils"
 )
 
 // Emoji - Struct representing Emoji
