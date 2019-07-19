@@ -1,6 +1,5 @@
-Fork from:
 ![Go-Emoji-Utils](http://up.tmdvs.me/52074bebc945/d)
-to enable backwards compatibility with older go versions.
+Fork from [tmdvs](https://github.com/tmdvs/Go-Emoji-Utils) to enable backwards compatibility with older go versions.
 
 # Go Emoji Utils
 A collection of useful functions for working with emoji. For example: look up the definition of a specific emoji, or search for all occurrences of emojis in a string.
